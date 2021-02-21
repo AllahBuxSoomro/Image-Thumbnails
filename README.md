@@ -3,4 +3,3 @@
 [Live The Side](https://allahbuxsoomro.github.io/website-thumbnails/)
 *HTML
 *CSS
-\*Bootstrap
