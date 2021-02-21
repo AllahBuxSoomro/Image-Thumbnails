@@ -1,5 +1,5 @@
 #This is My Image Thumbnails Site
-[Live The Side][https://allahbuxsoomro.github.io/nav.bar/]
+[Live The Side][https://allahbuxsoomro.github.io/website-thumbnails/]
 *HTML
 *CSS
 \*Bootstrap
